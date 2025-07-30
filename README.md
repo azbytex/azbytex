@@ -29,7 +29,6 @@
 </br>
 
 ```css
-/* 🎨 Meet Azbytex - Animated Profile */
 .azbytex {
   name: "Azbytex";
   location: "Indonesia 🇮🇩";
@@ -44,7 +43,6 @@
   favorite_time: "Late night coding sessions 🌙";
 }
 
-/* ⚡ Learning Animation */
 @keyframes learning {
   0% { 
     skill-level: beginner;
@@ -203,9 +201,6 @@ console.log("🔥 Motivation Level: OVER 9000!");
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="50"/> **Connect With Me**
 
 <div align="center">
-  
-<!-- Animated connector -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
 
   <a href="https://instagram.com/zkaraa___">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=FF6B6B" alt="Instagram"/>
@@ -216,8 +211,6 @@ console.log("🔥 Motivation Level: OVER 9000!");
   <a href="https://github.com/azbytex">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=45B7D1" alt="GitHub"/>
   </a>
-  
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
 
 </div>
 
