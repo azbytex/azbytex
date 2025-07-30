@@ -192,12 +192,6 @@ console.log("🔥 Motivation Level: OVER 9000!");
   <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5f9a5.gif" width="800">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="50"/> **Snake Game - My Coding Journey**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/azbytex/azbytex/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my learning progress"/>
-</div>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="50"/> **Connect With Me**
 
 <div align="center">
