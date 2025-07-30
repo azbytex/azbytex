@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=2000&color=45B7D1&center=true&vCenter=true&width=500&lines=Debugging+the+Universe...;Designing+the+Future...;Building+One+Line+at+a+Time..." />
 </p>
 
-
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="8" style="color:#FECA57; font-size:18px;">
     🧠 Keep failing, keep building. | 🚧 In progress is better than perfect. | ☕ Fueled by code and mie ayam.
@@ -17,10 +16,20 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900"/>
 </div>
 
-[<img align="right" alt="Azka Photo" width="350" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" src="https://fowadpmvdnqwbhpfjoki.supabase.co/storage/v1/object/sign/assets/Azka.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8yOTQ5ZmNkYy1jMTgzLTQ0ZDgtODc1My03OTBmYmU2NmI3ZTQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvQXprYS5wbmciLCJpYXQiOjE3NTM4ODQyNzQsImV4cCI6MzE1NTM1Mzg4NDI3NH0.1iZKUFSbNmR68T72lr5WsCCn3Jt2Jxss9nv7U0VOBH0.png" />](https://fowadpmvdnqwbhpfjoki.supabase.co/storage/v1/object/sign/assets/Azka.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8yOTQ5ZmNkYy1jMTgzLTQ0ZDgtODc1My03OTBmYmU2NmI3ZTQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvQXprYS5wbmciLCJpYXQiOjE3NTM4ODQzNDEsImV4cCI6MTc1NDQ4OTE0MX0.ZPEe3K6Myu2K7IYDcZEHbJ8_9fh73zkT7jRwI57zWww)
+<!-- Animated line separator -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
+<br>
+  <div align="center" style="margin: 20px 0;">
+    <img alt="Azka" width="280" height="280" style="border-radius: 15px; box-shadow: 0 8px 25px rgba(255, 107, 107, 0.3), 0 4px 15px rgba(78, 205, 196, 0.2); border: 3px solid transparent; background: linear-gradient(45deg, #FF6B6B,       
+    #4ECDC4, #45B7D1) padding-box, linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1) border-box;" src="https://i.ibb.co/YBrsXrfY/Azka.png" />
+  </div>
+</br>
 
 ```css
+/* 🎨 Meet Azbytex - Animated Profile */
 .azbytex {
   name: "Azbytex";
   location: "Indonesia 🇮🇩";
@@ -28,17 +37,35 @@
   level: "Learning & Growing 📈";
   passion: ["Web Development", "Mobile Apps", "UI Design"];
   current_focus: "Mastering JavaScript & Flutter";
-  fun_fact: "Mie Ayam";
+  fun_fact: "Mie Ayam Enthusiast 🍜";
   motto: "Every expert was once a beginner 🚀";
+  status: "Building dreams, one commit at a time ✨";
+  coding_style: "Clean, Creative, Consistent";
+  favorite_time: "Late night coding sessions 🌙";
 }
 
+/* ⚡ Learning Animation */
 @keyframes learning {
-  0% { skill-level: beginner; }
-  100% { skill-level: intermediate; }
+  0% { 
+    skill-level: beginner;
+    motivation: 100%;
+    coffee-level: empty;
+  }
+  50% { 
+    skill-level: improving;
+    motivation: 150%;
+    coffee-level: half-full;
+  }
+  100% { 
+    skill-level: intermediate;
+    motivation: 200%;
+    coffee-level: overflowing;
+  }
 }
 ```
 
 <br clear="both"/>
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"/> **My Learning Journey**
 
@@ -127,20 +154,44 @@
 <div align="center">
 
 ```javascript
+// 🚀 Azbytex's Coding Journey Dashboard
 const learningProgress = {
-    HTML: "████████████████████░ 90%",
-    CSS: "██████████████████░░░ 85%", 
-    JavaScript: "████████████░░░░░░░░░ 60%",
-    TypeScript: "██████░░░░░░░░░░░░░░░░ 30%",
-    Bootstrap: "██████████████░░░░░░░ 70%",
-    Flutter: "████████░░░░░░░░░░░░░░ 40%",
-    PHP: "██████████░░░░░░░░░░░░ 50%",
-    Laravel: "████░░░░░░░░░░░░░░░░░░ 20%"
+    // Frontend Mastery 🎨
+    HTML: "████████████████████░ 90% ⚡",
+    CSS: "██████████████████░░░ 85% 🎨", 
+    JavaScript: "████████████░░░░░░░░░ 60% 🔥",
+    TypeScript: "██████░░░░░░░░░░░░░░░░ 30% 📈",
+    Bootstrap: "██████████████░░░░░░░ 70% 💪",
+    
+    // Mobile Development 📱
+    Flutter: "████████░░░░░░░░░░░░░░ 40% 🦋",
+    Dart: "████████░░░░░░░░░░░░░░ 40% 🎯",
+    
+    // Backend Journey 🔧
+    PHP: "██████████░░░░░░░░░░░░ 470% 🐘",
+    Laravel: "████░░░░░░░░░░░░░░░░░░ 20% 🅻",
+    NodeJS: "█████░░░░░░░░░░░░░░░░░ 25% 🟢"
 };
 
-console.log("🚀 Keep learning and growing!");
+// Daily motivation tracker ☕
+const dailyStats = {
+    coffeeConsumed: "∞ cups",
+    linesOfCode: "Growing daily 📊",
+    bugsFixed: "More than created 🐛➡️✅",
+    stackoverflow: "Best friend 🤝",
+    githubCommits: "Green squares addiction 🟩"
+};
+
+console.log("🎯 Current Mission: Mastering JavaScript & Flutter!");
+console.log("🌟 Next Level: Full-Stack Developer");
+console.log("🔥 Motivation Level: OVER 9000!");
 ```
 
+</div>
+
+<!-- Animated code lines -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5f9a5.gif" width="800">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="50"/> **Snake Game - My Coding Journey**
@@ -152,15 +203,27 @@ console.log("🚀 Keep learning and growing!");
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="50"/> **Connect With Me**
 
 <div align="center">
+  
+<!-- Animated connector -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+
   <a href="https://instagram.com/zkaraa___">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=FF6B6B" alt="Instagram"/>
   </a>
-  <a href="mailto:azbytex@gmail.com">
+  <a href="mailto:azkamv4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=4ECDC4" alt="Email"/>
   </a>
   <a href="https://github.com/azbytex">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=45B7D1" alt="GitHub"/>
   </a>
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+
+</div>
+
+<!-- Animated typing -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=3000&color=FF6B6B&center=true&vCenter=true&width=600&lines=📧+Always+open+for+collaboration!;💬+Let's+build+something+amazing+together!;🚀+Follow+my+coding+adventure!" />
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="50"/> **Random Dev Quote**
@@ -169,17 +232,28 @@ console.log("🚀 Keep learning and growing!");
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20learn%20is%20by%20doing&author=Anonymous" alt="Dev Quote"/>
 </div>
 
+<!-- Stats with animated counters -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=azbytex&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/azbytex?label=Followers&style=for-the-badge&color=4ECDC4" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Learning%20Streak-365%20Days-FECA57?style=for-the-badge" alt="Learning Streak"/>
 </div>
 
+<!-- Final animated message -->
 <div align="center">
   <h3 style="color: #FF6B6B;">
     <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="30"/>
     Thanks for visiting my profile! Keep coding! 
     <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="30"/>
   </h3>
+  
+  <!-- Animated goodbye -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=5000&color=96CEB4&center=true&vCenter=true&width=500&lines=Happy+coding!+See+you+in+the+commit+history!+🚀;Stay+curious%2C+stay+coding!+✨" />
+</div>
+
+<!-- Animated footer -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 <div align="center">
