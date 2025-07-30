@@ -2,17 +2,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,10:4ECDC4,30:45B7D1,50:96CEB4,70:FECA57,90:FF9FF3,100:54A0FF&height=250&section=header&text=AZBYTEX&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Still%20Learning&descAlignY=55&descSize=18"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=800&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FECA57,FF9FF3,54A0FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%F0%9F%8C%88+Frontend+Developer+in+Training;%F0%9F%93%B1+Flutter+Mobile+Enthusiast;%F0%9F%87%AE%F0%9F%87%A9+Coding+from+Indonesia;%E2%9A%A1+Still+Learning+%26+Growing!" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=2000&color=45B7D1&center=true&vCenter=true&width=500&lines=Debugging+the+Universe...;Designing+the+Future...;Building+One+Line+at+a+Time..." />
+</p>
+
+
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="8" style="color:#FECA57; font-size:18px;">
+    🧠 Keep failing, keep building. | 🚧 In progress is better than perfect. | ☕ Fueled by code and mie ayam.
+  </marquee>
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900"/>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="50"/> **About Me**
+[<img align="right" alt="Azka Photo" width="350" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" src="https://fowadpmvdnqwbhpfjoki.supabase.co/storage/v1/object/sign/assets/Azka.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8yOTQ5ZmNkYy1jMTgzLTQ0ZDgtODc1My03OTBmYmU2NmI3ZTQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvQXprYS5wbmciLCJpYXQiOjE3NTM4ODQyNzQsImV4cCI6MzE1NTM1Mzg4NDI3NH0.1iZKUFSbNmR68T72lr5WsCCn3Jt2Jxss9nv7U0VOBH0.png" />](https://fowadpmvdnqwbhpfjoki.supabase.co/storage/v1/object/sign/assets/Azka.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8yOTQ5ZmNkYy1jMTgzLTQ0ZDgtODc1My03OTBmYmU2NmI3ZTQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvQXprYS5wbmciLCJpYXQiOjE3NTM4ODQzNDEsImV4cCI6MTc1NDQ4OTE0MX0.ZPEe3K6Myu2K7IYDcZEHbJ8_9fh73zkT7jRwI57zWww)
 
-<img align="right" alt="Coding GIF" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```css
 .azbytex {
@@ -22,7 +28,7 @@
   level: "Learning & Growing 📈";
   passion: ["Web Development", "Mobile Apps", "UI Design"];
   current_focus: "Mastering JavaScript & Flutter";
-  fun_fact: "I love RGB colors! 🌈";
+  fun_fact: "Mie Ayam";
   motto: "Every expert was once a beginner 🚀";
 }
 
@@ -33,10 +39,6 @@
 ```
 
 <br clear="both"/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="900">
-</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"/> **My Learning Journey**
 
@@ -91,10 +93,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="900">
-</div>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50"/> **GitHub Analytics**
 
 <div align="center">
@@ -124,10 +122,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=azbytex&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="900">
-</div>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="50"/> **Learning Progress**
 
 <div align="center">
@@ -149,18 +143,10 @@ console.log("🚀 Keep learning and growing!");
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="900">
-</div>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="50"/> **Snake Game - My Coding Journey**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/azbytex/azbytex/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my learning progress"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="900">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="50"/> **Connect With Me**
@@ -177,18 +163,10 @@ console.log("🚀 Keep learning and growing!");
   </a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="900">
-</div>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="50"/> **Random Dev Quote**
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20learn%20is%20by%20doing&author=Anonymous" alt="Dev Quote"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="900">
 </div>
 
 <div align="center">
