@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Azka Marta Viqar
+### a.k.a. `azbytex` — Fedora user, developer, and Linux enthusiast!
 
-<!--
-**azbytex/azbytex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 I like:
+- Coding with Linux & Fedora
+- Building cool stuff with open-source tools
+- Exploring terminal and backend dev
 
-Here are some ideas to get you started:
+🔧 Tech Stack:
+`Fedora` | `Linux` | `VS Code` | `Git` | `JavaScript` | `Kotlin` | `PHP`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's connect:
+- 💻 [My Projects](https://github.com/azbytex?tab=repositories)
+- 📬 Email me at: `azka@something.com`
