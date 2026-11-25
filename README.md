@@ -35,7 +35,7 @@ Frontend developer dari Indonesia. Sedang belajar JavaScript dan Flutter.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=azbytex&show_icons=true&include_all_commits=true&count_private=true&ring_color=fafafa&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&icon_color=fafafa&border_color=1f1f1f&border_radius=12" alt="GitHub stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=azbytex&show_icons=true&ring_color=fafafa&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&icon_color=fafafa&border_color=1f1f1f&border_radius=12" alt="GitHub stats"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azbytex&layout=compact&langs_count=6&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&icon_color=fafafa&border_color=1f1f1f&border_radius=12" alt="Top languages"/>
 
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=azbytex&background=0a0a0a&border=1f1f1f&stroke=262626&ring=fafafa&fire=fafafa&currStreakNum=fafafa&sideNums=fafafa&currStreakLabel=fafafa&sideLabels=a3a3a3&dates=737373&border_radius=12" alt="Streak"/>
