@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Azbytex"/>
+<img src="./assets/logo.gif" width="100%" alt="Azbytex"/>
 
 <br/>
 
